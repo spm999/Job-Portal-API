@@ -31,7 +31,7 @@ This is a Job Portal API built with Node.js, Express, and MySQL. The API support
 1. Clone the repository:
 
    ```
-   git clone https://github.com/spm999/Job-Portal.git
+   git clone https://github.com/spm999/Job-Portal-API.git
    ```
 2. Install dependencies:
 
